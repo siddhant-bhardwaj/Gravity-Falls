@@ -38,7 +38,7 @@ var greeting;
 
 function preload(){
   player_image= loadAnimation("Images/DipperPines.png");
-  player_running= loadAnimation("Images/DipperPines2.png","Images/DipperRunning.png");
+  player_running= loadAnimation("Images/DipperPines.png","Images/DipperRunning.png");
   playerimg2 = loadAnimation("Images/DipperPines2.png","Images/DipperRunning2.png");
   flashimage = loadImage("Images/Bluelight.jpg");
   doorimage = loadImage("Images/door.png");
